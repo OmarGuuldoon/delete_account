@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Deletion Policy - Student Portal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .container {
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .steps {
+            background-color: #fff;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        .note {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        .contact {
+            background-color: #e8f4f8;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Account Deletion Policy</h1>
+    
+    <div class="container">
+        <p>At Student Portal, we respect your privacy and provide you with the ability to delete your account and associated data at any time. This page explains how you can delete your account and what happens when you do so.</p>
+    </div>
+
+    <h2>How to Delete Your Account</h2>
+    <div class="steps">
+        <h3>Method 1: Through the Mobile App</h3>
+        <ol>
+            <li>Open the Student Portal app</li>
+            <li>On the login screen, tap the "Delete Account" link</li>
+            <li>Enter your email address and password</li>
+            <li>Confirm the deletion by tapping "Delete Account"</li>
+        </ol>
+
+        <h3>Method 2: Through Your Profile</h3>
+        <ol>
+            <li>Log in to the Student Portal app</li>
+            <li>Go to your Profile screen</li>
+            <li>Tap the "Delete Account" option</li>
+            <li>Confirm the deletion</li>
+        </ol>
+    </div>
+
+    <h2>What Happens When You Delete Your Account</h2>
+    <div class="container">
+        <p>When you delete your account, the following actions will occur:</p>
+        <ul>
+            <li>Your account will be permanently deleted from our system</li>
+            <li>All your personal data will be removed from our servers</li>
+            <li>You will no longer have access to the Student Portal services</li>
+            <li>Your login credentials will be invalidated</li>
+        </ul>
+    </div>
+
+    <div class="note">
+        <h3>Important Notes</h3>
+        <ul>
+            <li>Account deletion is permanent and cannot be undone</li>
+            <li>You must have your current password to delete your account</li>
+            <li>If you've forgotten your password, please use the "First Time User" option to reset it before deleting your account</li>
+            <li>Some information may be retained for legal or administrative purposes as required by law</li>
+        </ul>
+    </div>
+
+    <div class="contact">
+        <h2>Need Help?</h2>
+        <p>If you have any questions about the account deletion process or need assistance, please contact our support team:</p>
+        <ul>
+            <li>Email: devops@meritadvisory.so</li>
+            <li>Phone: 5882718</li>
+        </ul>
+    </div>
+
+    <footer style="margin-top: 50px; text-align: center; color: #666;">
+        <p>Last updated: [Current Date]</p>
+        <p>&copy; 2024 Student Portal. All rights reserved.</p>
+    </footer>
+</body>
+</html> 
